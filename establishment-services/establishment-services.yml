@@ -4,3 +4,5 @@ spring:
       host: mongo
       username: ms-user-dev
       paswword: ms-password-dev
+welcome:
+  message: "Welcome to default version"
