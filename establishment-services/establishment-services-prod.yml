@@ -4,3 +4,5 @@ spring:
       host: mongo
       username: ms-user-prod
       paswword: ms-password-prod
+welcome:
+  message: "Welcome to production version"

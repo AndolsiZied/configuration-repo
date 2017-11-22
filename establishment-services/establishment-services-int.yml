@@ -4,3 +4,5 @@ spring:
       host: mongo
       username: ms-user-int
       paswword: ms-password-int
+welcome:
+  message: "Welcome to integration version"
