@@ -3,6 +3,6 @@ spring:
     mongodb:
       host: mongo
       username: ms-user-prod
-      paswword: {cipher}6eb1903fead3351cb8bea82e5374b2bf5024ab0e1a2d1f5da4ed43b637f19e21de386709c069b92f77baf20ef4531275
+      paswword: "{cipher}6eb1903fead3351cb8bea82e5374b2bf5024ab0e1a2d1f5da4ed43b637f19e21de386709c069b92f77baf20ef4531275"
 welcome:
   message: "Welcome to production version"

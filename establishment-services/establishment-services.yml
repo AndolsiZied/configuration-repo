@@ -3,6 +3,6 @@ spring:
     mongodb:
       host: mongo
       username: ms-user-dev
-      paswword: {cipher}81a53f8fb653fd4104f05d841a4d945934d07ef6af9f95843299b433ee9d621c
+      paswword: "{cipher}81a53f8fb653fd4104f05d841a4d945934d07ef6af9f95843299b433ee9d621c"
 welcome:
   message: "Welcome to default version"
