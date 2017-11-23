@@ -3,6 +3,6 @@ spring:
     mongodb:
       host: mongo
       username: ms-user-int
-      paswword: ms-password-int
+      paswword: {cipher}02dd5c2107bc12a19b0a431ea0f2d4cc4dffb879674409f9ed8c35d24d4a5ed8
 welcome:
   message: "Welcome to integration version updated and refreshed"
