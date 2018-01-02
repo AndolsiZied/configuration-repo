@@ -2,7 +2,7 @@ spring:
   data:
     mongodb:
       host: mongo
-      username: ms-user-int
-      paswword: '{cipher}02dd5c2107bc12a19b0a431ea0f2d4cc4dffb879674409f9ed8c35d24d4a5ed8'
+      username: msApp
+      paswword: '{cipher}30d058864c5b032d31ca6c5d008fcdc38073d6a707d8f7ebd7c3ad8f1e9e2a50'
 welcome:
   message: "Welcome to integration version updated and refreshed"
